@@ -1,4 +1,4 @@
-# 🎉 Kaif Chouhan KBC Game (Python)
+# 🎉  KBC Game (Python)
 
 A simple console-based **Kaun Banega Crorepati (KBC)** game built in Python.  
 Test your knowledge with multiple-choice questions and try to win virtual prizes!  
